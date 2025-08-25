@@ -26,8 +26,6 @@
 
 <a href="norco_sphere.png"><img alt="norco_sphere" src="norco_sphere.png"></a>
 
-<a href="README.md"><img alt="README" src="README.md"></a>
-
 <a href="sable.png"><img alt="sable" src="sable.png"></a>
 
 <a href="sable_wallpaper1.jpg"><img alt="sable_wallpaper1" src="sable_wallpaper1.jpg"></a>
